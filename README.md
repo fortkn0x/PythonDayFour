@@ -24,7 +24,7 @@ Ask Alex if he wants to work with Daniel again. Show them this simple while loop
 	    x=x+1
 Ask them to write a while loop that iterates from 0 to 50 and goes up by ten so it prints out: 0, 10, 20, 30, 40, 50.
 
-After they complete that, give them a fun while loop to do together. Maybe they can build a story together.
+After they complete that, give them a fun while loop to do together. Maybe they can build a story together. Have Iniya help out so she can explain some of the more complicated aspects.
 
     user = input("Please input a sentence")
     story = user;
@@ -33,3 +33,4 @@ After they complete that, give them a fun while loop to do together. Maybe they 
 	    user=input("Continue the story.")
 	    story+=user;
 	print(story)
+

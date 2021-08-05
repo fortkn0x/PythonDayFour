@@ -9,19 +9,11 @@ If you had the ability to turn annoying people into an animal for a period of ti
  3. After break we all learn for loops and lists together
 
 ### Iniya's Exercise
-Create a question-and-answer quiz game. Determine 3-5 questions (trivia, lore about your favorite TV show, etc). Make sure some questions are multiple choice while some are short answer. Use what you have learned thus far to create a fun little quiz game.
-Example:
+Create a program that determines the average of a collection of numbers. Use a while loop. Let Iniya figure it out and design it herself, but ideally it would look like this:
 
-    userName = input("What is your name?")
-    
-    print("Hello there, " + userName + ". Welcome to Allison's 
-    quiz. Today, you will be quizzed on your knowledge
-    of Adventure Time.")
-   
-    answer1= input("What is the name of Finn the Human's 
-    trusty companion?")
-    
-Try to consider the best way to design it. Where is there room for user error? Is it best to use multiple chioce or short answer, and why?
+Ask the user how many numbers are in the collection. Then, given n numbers, ask the user to input the next number n times. Determine the sum of all numbers in this same loop.
+
+After exiting the loop, divide the sum by n to get the average.
 
 ### While Loops for Daniel and Alex
 Ask Alex if he wants to work with Daniel again. Show them this simple while loop that iterates from 0 to 10.
